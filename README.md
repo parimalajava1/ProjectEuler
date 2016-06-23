@@ -1,5 +1,5 @@
 # ProjectEuler
-First 10 programs of ProjectEuler
+I am a coding freak. Working on logics and writing code is something I love to do. Check out the below programs I wrote in Java
 
 #Multiples of 3&5
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
